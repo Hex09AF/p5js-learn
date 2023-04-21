@@ -53,3 +53,58 @@ Note:
 
 ## createGraphics()
 - https://youtu.be/TaluaAD9MKA (create multiple layer in draw)
+
+# day 2
+
+## Condition statements (if)
+- https://youtu.be/1Osb_iGDdjk
+
+## The bouncing ball
+- https://youtu.be/LO3Awjn_gyU (control the circle moving left and right alternate infinity time)
+
+## Else and Else if, AND and OR
+- https://youtu.be/r2S7j54I68c?t=722 (&&, ||)
+
+## Boolean Variabls 
+- https://youtu.be/Rk-_syQluvc
+
+Note:
+
+- Pressed vs Clicked, NOT operator(!), Toggle boolean state
+
+## While and for Loops
+- https://youtu.be/cnRD9o6odjk
+
+## Nested Loops
+- https://youtu.be/1c1_TMdf8b8
+
+## Function basics
+- https://youtu.be/wRHAitGzBrg (bouncing ball arround screen [ref](https://editor.p5js.org/codingtrain/sketches/omHOuJY1))
+
+- https://youtu.be/zkc417YapfE (Parameters and Arguments)
+
+- https://youtu.be/qRnUBiTJ66Y (`return`)
+
+## Introduction to Object-Oriented Programming (ES6)
+
+- https://youtu.be/xG2Vbnv0wvg (Introduce)
+
+- https://youtu.be/T-HGdc8L-7w (Classes, encapsulation, `constructor`, `this`)
+
+- https://youtu.be/rHiSsgFRgx4 (Constructor Arguments)
+
+## Adding JavaScript Files
+- https://youtu.be/5nf41qLeagU (Web Editor) 
+
+## Array
+- https://youtu.be/VIQoUghHSxU (What is an array)
+
+- https://youtu.be/RXWO3mFuW-I (Arrays and loops)
+
+- https://youtu.be/fBqaA7zRO58 (Arrays of objects)
+
+- https://youtu.be/Y8sMnRQYr3c (for...of loop)
+
+- https://youtu.be/TaN5At5RWH8 (Mouse Interaction with Objects mousePressed -> bubble.click())
+
+- https://youtu.be/tA_ZgruFF9k (Removing Objects from Arrays)
