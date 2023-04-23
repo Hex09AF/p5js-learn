@@ -108,3 +108,14 @@ Note:
 - https://youtu.be/TaN5At5RWH8 (Mouse Interaction with Objects mousePressed -> bubble.click())
 
 - https://youtu.be/tA_ZgruFF9k (Removing Objects from Arrays)
+
+# day 3
+
+## Aray
+
+- https://youtu.be/W1-ej3Wu5zg (Object Communication P1, two bubbles intersect)
+
+- https://youtu.be/5Q9cA0REztY (Object Communication P2, n bubbles intersect)
+
+- https://youtu.be/i2C1hrJMwz0 (Objects and Images, `preload`, `loadImage`, `random` element in an array)
+
