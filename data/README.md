@@ -22,4 +22,6 @@
 
 - https://youtu.be/mj8_w11MvH8 (The Giphy API and JavaScript, `createImage`)
 
-- https://youtu.be/ZiYdOwOrGyc (Coding Challenge #57: Mapping Earthquake Data, map projects, web mercator, https://www.mapbox.com/)
+- https://youtu.be/ZiYdOwOrGyc (Coding Challenge #57: Mapping Earthquake Data, map projects, web mercator, https://www.mapbox.com/, Converting Coordinates to pixel space, USGS)
+
+- https://youtu.be/RPz75gcHj18 (Coding Challenge #75: Wikipedia API)
