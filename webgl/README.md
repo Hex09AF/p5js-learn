@@ -4,6 +4,8 @@
 
 - `createCanvas(,,WEBGL)`
 
+# day 2
+
 ## 18.2: 3D Geometries
 
 - Box, Translate, Rotate
@@ -16,7 +18,7 @@
 - specularMaterial
 - createVector, normalize
 
-## 18.4: Texture 
+## 18.4: Texture
 
 - shadow and texture
 - `texture` (camera texture =))))) lol )
@@ -33,3 +35,21 @@
 
 - `createGraphics()` be careful the background is transparent (default)
 - draw text using graphic
+
+# day 3: Coding Challenge #7: Solar System in Processing - Part 1 (2D)
+
+## https://youtu.be/l8SiJ-RmeHU
+
+- Introduction
+- Planet class
+- Polar Coordinates
+- Draw the body
+- Create the sun
+- Creating a tree-like structure
+- Create the planets
+- Error! Recursive null check
+- translate and rotate by distance and angle
+- Resetting transformations
+- Setting the angle (Error!)
+- Rotating the planets
+- Recursively create children planets
